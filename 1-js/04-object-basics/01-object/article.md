@@ -6,7 +6,7 @@
 
 في المقابل ، يتم استخدام الكائنات *Objects* لتخزين مجموعات رئيسية من البيانات المختلفة والكيانات الأكثر تعقيدًا. في جافا سكريبت *JavaScript* ،  تخترق الكائنات *Objects* تقريبًا كل جانب من جوانب اللغة. لذا يجب أن نفهمهم أولاً قبل التعمق في أي مكان آخر.
 
-An object can be created with figure brackets `{…}` with an optional list of *properties*. A property is a "key: value" pair, where `key` is a string (also called a "property name"), and `value` can be anything.
+يمكن إنشاء كائن باستخدام أقواس الشكل `{...}` مع قائمة اختيارية من *الخصائص*. الخاصية هي زوج "مفتاح *key* : القيمة *value*" ، حيث يكون "المفتاح" عبارة عن سلسلة (تسمى أيضًا "اسم الخاصية") ، ويمكن أن يكون "القيمة" أي شيء.
 
 We can imagine an object as a cabinet with signed files. Every piece of data is stored in its file by the key. It's easy to find a file by its name or add/remove a file.
 
